@@ -3,6 +3,13 @@
 ## AIM:
 To simulate a half wave rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
+## HALF WAVE RECTIFIER WITHOUT FILTER:
+<img width="903" height="627" alt="Screenshot 2025-11-23 132854" src="https://github.com/user-attachments/assets/f36597eb-fbda-4e9d-94f1-714118f05e2d" />
+
+## HALF WAVE RECTIFIER WITH FILTER:
+<img width="1341" height="801" alt="Screenshot 2025-11-23 132915" src="https://github.com/user-attachments/assets/6c67fdfc-18c0-4735-a9ff-917cebb69f27" />
+
+
 
 ## STEPS FOR SIMULATION:
 1.	Open the Ltspice software
@@ -44,5 +51,14 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 37.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## OUTPUT:
+## HALF WAVE RECTIFIER WITHOUT FILTER:
+![WhatsApp Image 2025-11-20 at 4 26 07 PM](https://github.com/user-attachments/assets/a20a83f1-c975-408d-8dc2-e824a4c4bb55)
+
+## HALF WAVE RECTIFIER WITH FILTER:
+![WhatsApp Image 2025-11-20 at 4 26 06 PM](https://github.com/user-attachments/assets/d1219a43-4203-4f0d-b7be-b0b886dfac34)
+
 
 ## RESULT:
+![WhatsApp Image 2025-11-23 at 1 42 59 PM](https://github.com/user-attachments/assets/2d7a6b50-f28d-456c-8f77-8cfc927924e3)
+
+
